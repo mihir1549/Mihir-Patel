@@ -1,1 +1,1 @@
-[🔗 Link for page](https://omvekariya.github.io/module2-solution/index.html)
+[🔗 Link for page](https://github.com/mihir1549/Mihir-Patel/tree/main/module2_solution)
